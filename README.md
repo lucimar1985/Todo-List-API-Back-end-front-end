@@ -8,4 +8,4 @@ softwares usados, Insomnia, MongoDBCompass, Docker, Vscode, de modo a utilizar u
 <br>
 video demosntração
 <br>
-<link src="https://youtu.be/K1BIPs1Z1yE"/>
+https://youtu.be/K1BIPs1Z1yE
